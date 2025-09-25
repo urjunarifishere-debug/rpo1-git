@@ -1,5 +1,43 @@
-5
-7
-8
-9
-10
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме</title>
+    </head>
+<body>
+    <div class="container">
+        <h1>Пәленше Пәленшиев</h1>
+        <div class="subtitle">Начинающий веб-дизайнер</div>
+        
+        <div class="contact-info">
+            <div class="contact me">petyaboss@email.com</div>
+            <div class="contact me">+7 (777) 777-77-77</div>
+            <div class="contact me">Пхукет, Тайланд</div>
+        </div>
+        
+        <div class="section">
+            <h2>Обо мне</h2>
+            <p>Начинающий веб-дизайнер с базовыми знаниями Figma и Photoshop.Готов работать.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Образование</h2>
+            <div class="education">
+                <div class="job">Курсы "Веб-дизайнер с нуля"</div>
+                <div class="date">2023 - 2024</div>
+            </div>
+            <div class="education">
+                <div class="job">Учитель информатики</div>
+                <div class="company">Тайский государственный университет</div>
+                <div class="date">2019 - 2023</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Опыт работы</h2>
+            <div class="experience">
+                <div class="job">Стажер веб-дизайнер</div>
+                <div class="company">IT-компания</div>
+                <div class="date">Июнь 2023 - Август 2023</div>
+            </div>
